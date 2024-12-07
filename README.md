@@ -1,4 +1,4 @@
 # JavaScript-Introduction
 **First, let's look at a picture to understand JS and the difference between HTML, CSS**
-<img src="file:///C:/Users/user/Downloads/js.avif" >
+<img src="https://www.keentodesign.com.au/cdn-cgi/imagedelivery/eOylWWvDYZyJkbAUtQZpuQ/www.keentodesign.com.au/html.png/w=9999" >
 
