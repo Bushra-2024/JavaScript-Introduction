@@ -68,11 +68,11 @@ JavaScript is a programming language that follows the ECMAScript rules, but it a
 # JavaScript Conditional Statements
 ## 1. `if`, `else if`, `else`
 *EXAMPLE*
-let a = 80
-let b= 11
-if(a>b){
+- let a = 80
+-let b= 11
+- if(a>b){
     console.log(a);
-} else {
+-} else {
     console.log(b);
 }
 
