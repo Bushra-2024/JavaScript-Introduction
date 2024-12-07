@@ -133,3 +133,31 @@ function SumTwoNum(num1,num2) {
 let user1=SumTwoNum(2,3)
 
 console.log(user1);
+
+
+## 2. `Function Expression`
+*EXAMPLE*
+
+`a. Anonymous Function`
+let SumTwoNum = function(num1, num2) {
+    return num1 + num2;
+};
+
+let user1 = SumTwoNum(2, 3);
+
+console.log(user1);
+
+`b. Arrow Function`
+let SumTwoNum = (num1, num2) => num1 + num2;
+
+let user1 = SumTwoNum(2, 3);
+
+console.log(user1);
+
+
+## 3.`IIFE (Immediately Invoked Function Expression)`
+(function(num1, num2) {
+
+    console.log(num1 + num2);
+    
+})(2, 3);
