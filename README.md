@@ -65,5 +65,6 @@ JavaScript is a programming language that follows the ECMAScript rules, but it a
 ### **2. Explicit Conversion**
 - You manually convert values between types using functions like `String()`, `Number()`, and `Boolean()`.
 
-
-
+# JavaScript Conditional Statements
+## 1. `if`, `else if`, `else`
+<img src="https://dotnettrickscloud.blob.core.windows.net/article/c/4620240408194655.webp">
