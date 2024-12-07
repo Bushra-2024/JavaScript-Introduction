@@ -125,7 +125,9 @@ do {
 ## 1. `Function Declaration`
 *EXAMPLE*
 function SumTwoNum(num1,num2) {
-    return num1+num2;
+
+   return num1+num2;
+
 }
 
 let user1=SumTwoNum(2,3)
