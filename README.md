@@ -81,7 +81,7 @@ if(a>b){
 let age =18
 console.log(age>18 ? true : false);
 
-## 2.  `Switch case`
+## 3.  `Switch case`
 *EXAMPLE*
 let day = "Monday";
 
@@ -95,3 +95,28 @@ switch (day) {
     default:
         console.log("Other day");
 }
+
+
+# JavaScript Loops
+## 1. `Loop for`
+*EXAMPLE*
+for (let i=0; i<=5; i++) {
+    console.log(i);
+}
+
+## 2. `While Loop`
+*EXAMPLE*
+let i = 0;
+while (i < 5) {
+    console.log(i);
+    i++;
+}
+
+## 3.  `do while Loop`
+*EXAMPLE*
+let i = 0;
+do {
+    console.log(i);
+    i++;
+} while (i<=5);
+
