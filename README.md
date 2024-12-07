@@ -67,4 +67,31 @@ JavaScript is a programming language that follows the ECMAScript rules, but it a
 
 # JavaScript Conditional Statements
 ## 1. `if`, `else if`, `else`
-<img src="https://dotnettrickscloud.blob.core.windows.net/article/c/4620240408194655.webp">
+*EXAMPLE*
+let a = 80
+let b= 11
+if(a>b){
+    console.log(a);
+} else {
+    console.log(b);
+}
+
+## 2. Ternary Operator (? :)
+*EXAMPLE*
+let age =18
+console.log(age>18 ? true : false);
+
+## 2.  Switch case
+*EXAMPLE*
+let day = "Monday";
+
+switch (day) {
+    case "Monday":
+        console.log("Start of the week");
+        break;
+    case "Friday":
+        console.log("End of the week");
+        break;
+    default:
+        console.log("Other day");
+}
