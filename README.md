@@ -37,3 +37,21 @@ JavaScript is a programming language that follows the ECMAScript rules, but it a
 2. Using Node.js in Terminal
 3. Using Code Runner Extension in VS Code
 
+
+## JavaScript Variables and Constants
+### **Variable (`let`, `var`)**
+- Stores data that can be changed.
+- `let` newer version , `var` new way of declaring.
+
+### **Constant (`const`)**
+- Stores data that cannot be changed after initialization.
+- Must be initialized during declaration.
+
+## JavaScript Values:
+1. *Primitives:
+   Stored directly in memory.
+   Types: string, number, boolean, null, undefined, symbol, bigint.
+   
+2. *Objects:
+    Stored by reference (not directly in memory).
+   Types: Arrays, Functions, Objects.
