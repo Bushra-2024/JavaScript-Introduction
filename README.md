@@ -10,6 +10,6 @@ JavaScript (JS) is a lightweight, interpreted programming language commonly used
 
 **Uses of JavaScript:**
 * *Web Development*: Add interactivity to websites (e.g., forms, slideshows, pop-ups).
-*Backend Development: Use with Node.js to build server-side applications.
+* *Backend Development*: Use with Node.js to build server-side applications.
 *Mobile and Desktop Apps: Frameworks like React Native and Electron enable app development.
 
