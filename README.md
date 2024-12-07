@@ -76,12 +76,12 @@ if(a>b){
     console.log(b);
 }
 
-## 2. Ternary Operator (? :)
+## 2. `Ternary Operator (? :)`
 *EXAMPLE*
 let age =18
 console.log(age>18 ? true : false);
 
-## 2.  Switch case
+## 2.  `Switch case`
 *EXAMPLE*
 let day = "Monday";
 
