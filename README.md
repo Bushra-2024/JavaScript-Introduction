@@ -48,10 +48,22 @@ JavaScript is a programming language that follows the ECMAScript rules, but it a
 - Must be initialized during declaration.
 
 ## JavaScript Values:
-1. *Primitives:
+1. *Primitives:*
    Stored directly in memory.
    Types: string, number, boolean, null, undefined, symbol, bigint.
    
-2. *Objects:
+2. *Objects:*
     Stored by reference (not directly in memory).
    Types: Arrays, Functions, Objects.
+
+
+## Types of Conversion in JavaScript
+
+### **1. Implicit Conversion**
+- JavaScript automatically converts values between types during operations when necessary.
+
+### **2. Explicit Conversion**
+- You manually convert values between types using functions like `String()`, `Number()`, and `Boolean()`.
+
+
+
