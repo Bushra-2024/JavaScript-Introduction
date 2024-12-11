@@ -68,14 +68,14 @@ JavaScript is a programming language that follows the ECMAScript rules, but it a
 # JavaScript Conditional Statements
 ## 1. `if`, `else if`, `else`
 *EXAMPLE*
-let a = 80
+```let a = 80
 let b= 11
 if(a>b){
     console.log(a);
 } else {
     console.log(b);
 }
-
+```
 ## 2. `Ternary Operator (? :)`
 *EXAMPLE*
 let age =18
