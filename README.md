@@ -78,13 +78,16 @@ if(a>b){
 ```
 ## 2. `Ternary Operator (? :)`
 *EXAMPLE*
+```
 let age =18
 console.log(age>18 ? true : false);
 
 ## 3.  `Switch case`
 *EXAMPLE*
 let day = "Monday";
+```
 
+```
 switch (day) {
     case "Monday":
         console.log("Start of the week");
@@ -95,67 +98,71 @@ switch (day) {
     default:
         console.log("Other day");
 }
-
+```
 
 # JavaScript Loops
 ## 1. `Loop for`
 *EXAMPLE*
+```
 for (let i=0; i<=5; i++) {
     console.log(i);
 }
-
+```
 ## 2. `While Loop`
 *EXAMPLE*
+```
 let i = 0;
 while (i < 5) {
     console.log(i);
     i++;
 }
+```
 
 ## 3.  `do while Loop`
 *EXAMPLE*
+```
 let i = 0;
 do {
     console.log(i);
     i++;
 } while (i<=5);
-
+```
 
 # JavaScript Functions
 ## 1. `Function Declaration`
 *EXAMPLE*
+```
 function SumTwoNum(num1,num2) {
 
    return num1+num2;
 
 }
-
 let user1=SumTwoNum(2,3)
-
 console.log(user1);
-
+```
 
 ## 2. `Function Expression`
 *EXAMPLE*
-
 `a. Anonymous Function`
+```
 let SumTwoNum = function(num1, num2) {
     return num1 + num2;
 };
-
 let user1 = SumTwoNum(2, 3);
-
 console.log(user1);
+```
 
 `b. Arrow Function`
-let SumTwoNum = (num1, num2) => num1 + num2;
-
+```
+let SumTwoNum = (num1, num2) =>
+num1 + num2;
 let user1 = SumTwoNum(2, 3);
-
 console.log(user1);
-
+```
 
 ## 3.`IIFE (Immediately Invoked Function Expression)`
+```
 (function(num1, num2) {
     console.log(num1 + num2);
 })(2, 3);
+```
